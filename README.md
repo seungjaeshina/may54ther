@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         </td>
         <td>Deploys</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,aws" height="40" />
+          <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,linux" height="40" />
         </td>
       </tr>
       <tr>
