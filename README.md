@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 -->
   
 
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=may54ther&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=may54ther&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=may54ther&theme=algolia)
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=may54ther&theme=algolia" width="70%" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=may54ther&theme=algolia" width="35%" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=may54ther&theme=algolia" width="35%" />
+ 
+
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=may54ther&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=may54ther&theme=algolia&utcOffset=8)
