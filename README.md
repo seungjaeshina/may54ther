@@ -1,5 +1,5 @@
- <div style="text-align: center"> 
-
+<div align="center">
+ 
  <!--
 ![](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Ahyeon%20Kim&reversal=f'se&fontAlign=50&textBg=false&animation=fadeIn&desc=Web%20Developer&descAlign=50&descAlignY=67&fontAlignY=47)
 -->
