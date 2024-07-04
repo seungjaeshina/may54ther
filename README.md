@@ -1,8 +1,8 @@
  <div style="text-align: center"> 
 
- 
+ <!--
 ![](https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Ahyeon%20Kim&reversal=f'se&fontAlign=50&textBg=false&animation=fadeIn&desc=Web%20Developer&descAlign=50&descAlignY=67&fontAlignY=47)
-
+-->
 <!--
 **may54ther/may54ther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  
-🌱 My Skills
+
 
 
 <!--
