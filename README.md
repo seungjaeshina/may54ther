@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,react,bootstrap" /> <br/> <br/>
-    <img src="https://skillicons.dev/icons?i=bash,vscode,idea,git,docker,githubactions,aws,linux" />  <br/> <br/>
-    <img src="https://skillicons.dev/icons?i=discord,notion,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=java,spring,gradle,hibernate,mysql" height="40" /> <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="40" /> <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,bash" height="40" />  <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=docker,githubactions,aws,linux" height="40" />  <br/> <br/>
+    <img src="https://skillicons.dev/icons?i=discord,notion,figma,ps" height="40" />
 </p>
 
 <br/> 
