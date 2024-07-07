@@ -28,6 +28,8 @@ Here are some ideas to get you started:
         <td>
           <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql" height="40" />
         </td>
+      </tr>
+      <tr>
         <td>Frontend</td>
         <td>
           <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" height="40" />
@@ -38,6 +40,8 @@ Here are some ideas to get you started:
         <td>
           <img src="https://skillicons.dev/icons?i=git,vscode,idea,bash" height="40" />
         </td>
+      </tr>
+      <tr>
         <td>Deploys</td>
         <td>
           <img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,aws,linux" height="40" />
@@ -45,7 +49,7 @@ Here are some ideas to get you started:
       </tr>
       <tr>
         <td>Collaborations</td>
-        <td colspan=3>
+        <td>
           <img src="https://skillicons.dev/icons?i=discord,notion,figma,postman" height="40" />
         </td>
       </tr>
