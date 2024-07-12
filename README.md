@@ -38,7 +38,7 @@ Here are some ideas to get you started:
       <tr>
         <td>Tools</td>
         <td>
-          <img src="https://skillicons.dev/icons?i=git,vscode,idea,bash" height="40" />
+          <img src="https://skillicons.dev/icons?i=git,idea" height="40" />
         </td>
       </tr>
       <tr>
